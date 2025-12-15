@@ -1,5 +1,5 @@
 import { Routes, Route, Navigate } from "react-router-dom";
-import Login from "../pages/auth/login";
+import Login from "../pages/auth/Login";
 import Register from "../pages/auth/Register";
 import Tasklist from "../pages/tasks/Tasklist";
 import TaskCreate from "../pages/tasks/TaskCreate";
